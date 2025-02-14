@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Miguel Guirao - About"
 uni: "New Mexico State University"
 permalink: /
