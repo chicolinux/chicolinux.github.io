@@ -4,4 +4,4 @@
 
 layout: default
 ---
-<h1>MIguel Guirao</h1>
+<h1>Miguel Guirao</h1>
