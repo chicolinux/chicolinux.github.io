@@ -4,4 +4,4 @@
 
 layout: default
 ---
-<h1>Miguel Guirao</h1>
+<h1> {{"miguel a guirao aguilera" | capitalize}}</h1>
